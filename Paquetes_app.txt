@@ -1,3 +1,8 @@
+# instalar librerías
+install.packages(c("shiny", "shinythemes", "readr", "dplyr", "ggplot2", "plotly", 
+                   "formattable", "tidyverse", "sf", "rworldmap", "agricolae", "maps",
+                   "RColorBrewer", "classInt", "ggiraph", "rjson", "RSocrata"))
+
 library(shinythemes)
 library(readr)
 library(dplyr)
